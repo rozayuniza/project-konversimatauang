@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Konversi Mata Uang</string>
+    <string name="todo">TODO</string>
+    <string name="rupiah_ke_yen">Rupiah ke Yen</string>
+    <string name="rupiah_ke_dollar">Rupiah ke Dollar</string>
+    <string name="rupiah_ke_euro">Rupiah ke Euro</string>
+    <string name="rupiah_ke_pounds">Rupiah ke Pounds</string>
+    <string name="rupiah_ke_ringgit">Rupiah ke Ringgit</string>
+    <string name="nilai_tukar_mata_uang">Nilai Tukar Mata Uang</string>
+</resources>
